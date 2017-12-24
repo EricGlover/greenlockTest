@@ -5,6 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node ex1.js",
+    "nodemon": "nodemon ex1.js",
+    "beSilly": "nodemon backendRoulette",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
